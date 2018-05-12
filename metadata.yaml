@@ -25,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9-Aubert_Vertot
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Aubert_de_Vertot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43852#The-Revolutions-of-Portugal
 gutenberg_issued: '2013-09-30'
 gutenberg_type: Text
 identifiers:
